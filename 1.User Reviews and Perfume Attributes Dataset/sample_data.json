@@ -1,0 +1,38 @@
+[
+    {
+        "user_id": "93040",
+        "user_name": "علی",
+        "comment_text": "در برنامه خریدم هست ولی نمیدونم چرا نمیتونم باهاش کنار بیام حس میکنم بوی رژ لب میده",
+        "perfume_id": "1030",
+        "perfume_name": "Dior Homme Intense",
+        "perfume_brand": "Dior",
+        "perfume_url": "https://www.atrafshan.ir//perfume/1030-480/dior-homme-intense",
+        "scent_specifications": {
+            "fragrance_group": "چوبی گلی مُشکی",
+            "perfumer": "فرانسوا دماشی",
+            "nature": "گرم"
+        },
+        "production_specifications": {
+            "brand_name_farsi": "دیور",
+            "origin_country": "فرانسه",
+            "release_year": "2007"
+        },
+        "users_vote": {
+            "smell": "8.2",
+            "durability": "7.8",
+            "diffusion": "7.6",
+            "design": "8.2"
+        },
+        "user_wish": {},
+        "user_vote_on_perfume": {
+            "votes": {
+                "رایحه": "8",
+                "ماندگاری": "7",
+                "پخش بو": "7",
+                "طراحی شیشه": "8"
+            },
+            "comment_id": "128773",
+            "is_comment_answer": "NO"
+        }
+    }
+]
